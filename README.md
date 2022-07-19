@@ -2,7 +2,7 @@
 
 #### Aqui estão algumas informações interessantes:
 - Link do Linkedin: https://www.linkedin.com/in/elizeu-galacha/
-- Link do CodePen: https://codepen.io/your-work
+- Link do CodePen: https://codepen.io/collection/BNewkb
 - Link do meu Whatsapp: https://contate.me/elizeugalacha
 
 #### Vejo você em breve, até logo 👋🏿
